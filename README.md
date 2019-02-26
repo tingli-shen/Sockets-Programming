@@ -42,6 +42,7 @@ Your server should take command line arguments specifying a port number.
 myserver 5678
 ```
 The basic server action should proceed as follows
+
 1.Initialize the server.
 
 2.Wait for a client connection on the port number specified by command line argument.
