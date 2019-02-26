@@ -4,6 +4,6 @@ transfer files to each other and the client can get a file from a real web serve
 
 ## Client
 GET 
-'''
+```
 myclient host port_number GET filename
-'''
+```
