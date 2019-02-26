@@ -3,7 +3,7 @@ HTTP client and server by socket programming in Python interface that they can
 transfer files to each other and the client can get a file from a real web server on the internet.
 
 ## Client
-##GET 
+### GET 
 ```
 myclient host port_number GET filename
 ```
@@ -23,7 +23,7 @@ myclient www.cnn.com 80 GET index.html
 ```
 myclient pc1.cs.uml.edu 5678 GET index.html
 ```
-##PUT
+### PUT
 ```
 myclient host port_number PUT filename
 ```
